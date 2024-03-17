@@ -1,5 +1,5 @@
 // Public URL where your bundled chat-app.js will be available
-const chatAppUrl = "https://chatbot-ui-js-script.com/chat-app.js";
+const chatAppUrl = "https://chatbot-ui-js-script.netlify.app/chat-app.js";
 
 (function () {
   function loadScript(callback) {
